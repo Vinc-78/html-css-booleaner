@@ -19,7 +19,14 @@ h3, h5 {color:grey;
 figure{margin-left: 0;}
 
 article{
-    width: 1150px;
+    width: 1110px;
     font-size: 18px;
     text-align: justify;
 }
+
+table{width: 1100px;}
+.head{ background-color:rgb(100, 100, 241);
+            color: white;
+            font-weight: bold;}
+
+.tableDispari{ background-color:aqua}
