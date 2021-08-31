@@ -1,0 +1,19 @@
+header {
+    width: 1200px;
+    height: 150px;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: rgb(100, 100, 241);
+}
+
+#logo{ margin-left: 25px;
+        width:20%;
+        margin-top: 70px;}
+
+h3, h5 {color:grey;
+        margin:0px;
+        padding: 0px;}
+
+#autore{color:rgb(100, 100, 241);}
+
+figure{margin-left: 0;}
