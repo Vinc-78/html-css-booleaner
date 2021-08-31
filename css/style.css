@@ -17,3 +17,9 @@ h3, h5 {color:grey;
 #autore{color:rgb(100, 100, 241);}
 
 figure{margin-left: 0;}
+
+article{
+    width: 1150px;
+    font-size: 18px;
+    text-align: justify;
+}
