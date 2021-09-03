@@ -32,12 +32,15 @@ article, section{
     text-align: justify;
 }
 
-table{width: 1100px;}
+table{  width: 1100px;
+        border-collapse: collapse;}
+        
 .head{ background-color:rgb(100, 100, 241);
             color: white;
             font-weight: bold;}
 
-.tableDispari{ background-color:aqua}
+/* Selettore avanzato per selezionare solo le righe dispari della tabela */
+tbody>tr:nth-of-type(odd) { background-color:aqua}
 
 /* gli ultimi due div individuati con 
 degli id hanno caratterische comuni 
